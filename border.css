@@ -1,0 +1,119 @@
+div#html-menu /* menu placeholder */
+{
+	clear: both;
+	text-align: left;
+	width: 100%;
+}
+/************************/
+/* Rounded Corner Box Style */
+/************************/
+.spiffy-rounded
+{
+	display: block;
+	width: 100%;
+}
+.spiffy-rounded *
+{
+	display: block;
+	height: 1px;
+	overflow: hidden;
+	font-size: .01em;
+	background: #FD000D;
+}
+.spiffy-rounded1
+{
+	margin-left: 3px;
+	margin-right: 3px;
+	padding-left: 1px;
+	padding-right: 1px;
+	border-left: 1px solid #fe9196;
+	border-right: 1px solid #fe9196;
+	background: #fd3f49;
+}
+.spiffy-rounded2
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	border-left: 1px solid #fee5e6;
+	border-right: 1px solid #fee5e6;
+	background: #fd303a;
+}
+.spiffy-rounded3
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	border-left: 1px solid #fd303a;
+	border-right: 1px solid #fd303a;
+}
+.spiffy-rounded4
+{
+	border-left: 1px solid #fe9196;
+	border-right: 1px solid #fe9196;
+}
+.spiffy-rounded5
+{
+	border-left: 1px solid #fd3f49;
+	border-right: 1px solid #fd3f49;
+}
+.spiffy-roundedfg
+{
+	background: #FD000D;
+	width: 100%; /*display:inline-block; 	border-bottom:	1px solid #fff;*/
+}
+
+.spiffy-rounded-bottom
+{
+	display: block;
+}
+.spiffy-rounded-bottom *
+{
+	display: block;
+	height: 1px;
+	overflow: hidden;
+	font-size: .01em;
+	background: #A1C60F;
+}
+.spiffy-rounded-bottom1
+{
+	margin-left: 3px;
+	margin-right: 3px;
+	padding-left: 1px;
+	padding-right: 1px;
+	border-left: 1px solid #d6e697;
+	border-right: 1px solid #d6e697;
+	background: #b8d44b;
+}
+.spiffy-rounded-bottom2
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	padding-right: 1px;
+	padding-left: 1px;
+	border-left: 1px solid #f5f9e7;
+	border-right: 1px solid #f5f9e7;
+	background: #b2d03c;
+}
+.spiffy-rounded-bottom3
+{
+	margin-left: 1px;
+	margin-right: 1px;
+	border-left: 1px solid #b2d03c;
+	border-right: 1px solid #b2d03c;
+}
+.spiffy-rounded-bottom4
+{
+	border-left: 1px solid #d6e697;
+	border-right: 1px solid #d6e697;
+}
+.spiffy-rounded-bottom5
+{
+	border:none;
+	/*border-left: 1px solid #b8d44b;
+	border-right: 1px solid #b8d44b;*/
+}
+.spiffy-rounded-bottomfg
+{
+	background: #A1C60F;
+}
